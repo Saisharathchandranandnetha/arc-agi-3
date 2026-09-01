@@ -11,3 +11,4 @@
 
 3. **Incomplete Trace Logging**:
    - The agent keeps `_history` limited to the last 10 actions and does not store a full, exact replay trace matching the state transitions perfectly for later verification.
+

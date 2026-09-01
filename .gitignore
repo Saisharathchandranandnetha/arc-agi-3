@@ -20,3 +20,13 @@ reference/
 .DS_Store
 .idea/
 .vscode/
+
+# Agent orchestration temp files
+.claude-flow/
+.swarm/
+
+# Backup venvs
+.venv-linux-backup/
+
+# Database files
+*.db

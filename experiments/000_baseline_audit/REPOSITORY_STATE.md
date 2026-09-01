@@ -48,3 +48,4 @@ Based on the file tree and `ROADMAP.md` claims:
 | Goal inference        | MISSING | | No goal predicate fitting |
 | Information gain      | MISSING | | No information gain metrics |
 | Scheduler             | MISSING | | No play order optimization or opaque game dropping |
+
